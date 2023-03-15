@@ -3,7 +3,7 @@ Topic Modeling and Sentiment Analysis of Customer reviews
 The goal of this project was to:
 
 1. Build a model that labels online reviews and puts them into specific catergories
-2. Build a model that can predict the sentiment of an onile review
+2. Build a model that can predict the sentiment of an online review
 
 Use Cases:
 
