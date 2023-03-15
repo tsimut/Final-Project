@@ -19,6 +19,6 @@ BeautifulSoup- To scarpe data from consumeraffairs.com
 NLTK & gensim- To clean data and to perform some basic NLP
 ELMO Vectors & Linear regression- Sentiment analysis
 LDA Model- Topic Modeling
-pylDavis: To create visual the topics
+pylDavis: To visualize the topics
 
 Models were deployed with Flask
